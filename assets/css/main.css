@@ -1620,12 +1620,12 @@
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 1.25em;
 		line-height: 1.2em;
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.0em;
 		line-height: 1.25em;
 	}
 
@@ -1635,7 +1635,7 @@
 	}
 
 	h4 {
-		font-size: 1.1em;
+		font-size: 0.9em;
 		line-height: 1.1em;
 	}
 
@@ -2472,7 +2472,7 @@
 		display: inline-block;
 		font-weight: 400;
 		height: calc(1.4em + 4px);
-		padding: 0 0.4em;
+		padding: 0 0.3em;
 		line-height: 1.2em;
 		min-width: 1em;
 		text-align: center;
@@ -3044,11 +3044,11 @@
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.0em;
 			}
 
 			h3 {
-				font-size: 1em;
+				font-size: 0.8em;
 			}
 
 			h0 {
@@ -3062,7 +3062,7 @@
 			}
 
 			header.major h2 {
-				font-size: 1.35em;
+				font-size: 1.05em;
 			}
 
 		/* List */
@@ -3072,7 +3072,7 @@
 			}
 
 				ul.labeled-icons li h3 {
-					line-height: 1.75em;
+					line-height: 1.5em;
 				}
 
 		/* Header */
