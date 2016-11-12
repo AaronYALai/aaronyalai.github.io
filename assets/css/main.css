@@ -28,7 +28,7 @@
 
 	ol, ul {
 		list-style: none;
-		font-size: 1.0em;
+		font-size: 0.9em;
 	}
 
 	blockquote, q {
@@ -2474,7 +2474,7 @@
 		font-weight: 400;
 		height: calc(1.2em + 4px);
 		padding: 0 0.3em;
-		line-height: 1.0em;
+		line-height: 0.9em;
 		min-width: 1em;
 		text-align: center;
 		text-decoration: none;
