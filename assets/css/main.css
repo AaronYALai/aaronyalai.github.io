@@ -1583,11 +1583,11 @@
 		text-decoration: none;
 	}
 
-		a:hover {
+/*		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
 			text-decoration: none;
-		}
+		}*/
 
 	strong, b {
 		color: #787878;
@@ -1606,7 +1606,7 @@
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 0.5em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h0 a {
@@ -1621,12 +1621,12 @@
 
 	h2 {
 		font-size: 1.5em;
-		line-height: 1.5em;
+		line-height: 1.2em;
 	}
 
 	h3 {
 		font-size: 1.25em;
-		line-height: 1.5em;
+		line-height: 1.25em;
 	}
 
 	h0 {
@@ -1636,7 +1636,7 @@
 
 	h4 {
 		font-size: 1.1em;
-		line-height: 1.5em;
+		line-height: 1.1em;
 	}
 
 	h5 {
@@ -2105,7 +2105,7 @@
 /* List */
 
 	ol {
-		list-style: decimal;
+		list-style: upper-roman;
 		margin: 0 0 2em 0;
 		padding-left: 1.25em;
 	}
@@ -2116,7 +2116,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
+		margin: -0.5em 0 2em 0;
 		padding-left: 1em;
 	}
 
@@ -2131,7 +2131,7 @@
 
 			ul.alt li {
 				border-top: solid 2px #efefef;
-				padding: 0.5em 0;
+				padding: 0.2em 0;
 			}
 
 				ul.alt li:first-child {
@@ -2405,6 +2405,19 @@
 			font-size: 0.8em;
 		}
 
+		input[type="submit"].course,
+		input[type="reset"].course,
+		input[type="button"].course,
+		.button.course {
+			font-size: 0.9em;
+			background-color: #49bf9d;
+			border-color: #49bf9d;
+			color: #ffffff !important;
+			height: calc(1.4em + 6px);
+			padding: 0 0.4em;
+			line-height: 1.3em;
+		}
+
 		input[type="submit"].big,
 		input[type="reset"].big,
 		input[type="button"].big,
@@ -2448,6 +2461,37 @@
 			border-color: #e7e7e7 !important;
 			color: #b2b2b2 !important;
 			cursor: default;
+		}
+
+	.backcard {
+		font-size: 0.9em;
+		background-color: #49bf9d;
+		border-radius: 0.35em;
+		border: solid 3px;
+		color: #ffffff !important;
+		display: inline-block;
+		font-weight: 400;
+		height: calc(1.4em + 4px);
+		padding: 0 0.4em;
+		line-height: 1.2em;
+		min-width: 1em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+		border-color: transparent;
+	}
+
+		.backcard.special {
+			background-color: #737373;
+			border-color: transparent;
+		}
+
+		.backcard.link {
+		}
+
+		.backcard.link:hover {
+			background-color: #addd8e;
+			border-color: #addd8e;
 		}
 
 /* Work Item */
