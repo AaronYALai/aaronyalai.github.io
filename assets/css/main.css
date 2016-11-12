@@ -2471,9 +2471,9 @@
 		color: #ffffff !important;
 		display: inline-block;
 		font-weight: 400;
-		height: calc(1.4em + 4px);
+		height: calc(1.2em + 4px);
 		padding: 0 0.3em;
-		line-height: 1.2em;
+		line-height: 1.0em;
 		min-width: 1em;
 		text-align: center;
 		text-decoration: none;
