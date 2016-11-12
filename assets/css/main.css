@@ -2942,6 +2942,10 @@
 						display: inline;
 					}
 
+					#header h0 br {
+						display: inline;
+					}
+
 		/* Footer */
 
 			#footer {
@@ -3112,7 +3116,11 @@
 			}
 
 				#header h1 br {
-					display: none;
+					display: inline;
+				}
+
+				#header h0 br {
+					display: inline;
 				}
 
 		/* Footer */
