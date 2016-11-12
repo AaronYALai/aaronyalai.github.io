@@ -1615,7 +1615,7 @@
 		}
 
 	h1 {
-		font-size: 1.75em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -2507,7 +2507,7 @@
 
 		#header h0 {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.2em;
+			font-size: 1.0em;
 		}
 
 		#header .image.avatar {
