@@ -2130,16 +2130,19 @@
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
+			font-size: 0.9em;
 		}
 
 			ul.alt li {
 				border-top: solid 2px #efefef;
 				padding: 0.2em 0;
+				font-size: 0.9em;
 			}
 
 				ul.alt li:first-child {
 					border-top: 0;
 					padding-top: 0;
+					font-size: 0.9em;
 				}
 
 		ul.icons {
