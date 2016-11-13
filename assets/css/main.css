@@ -2465,6 +2465,8 @@
 			cursor: default;
 		}
 
+/* Back Card */
+
 	.backcard {
 		font-size: 0.9em;
 		background-color: #49bf9d;
@@ -2496,6 +2498,50 @@
 			border-color: #addd8e;
 		}
 
+/* Text Card */
+
+	.textcard {
+		color: #211908 !important;
+		font-weight: 400;
+		border-radius: 0.35em 0.35em 0 0;
+		border: solid 1px;
+		border-color: #d9d9d9;
+		display: block;
+		line-height: 1.25em;
+		padding: 0.5em 0.8em;
+		overflow-x: auto;
+		background-color: #efefef;
+		margin-left: auto;
+    	margin-right: auto;
+	}
+
+		.textcard .image {
+			margin: 0 0 1.5em 0;
+		}
+
+		.textcard h3 {
+			font-size: 1em;
+			margin: 0 0 0.5em 0;
+		}
+
+		.textcard p {
+			font-size: 0.8em;
+			line-height: 1.5em;
+			margin: 0;
+		}
+
+	.textcarddown {
+		border-radius: 0 0 0.35em 0.35em;
+		border: solid 1px;
+		border-top-style: none;
+		border-color: #d9d9d9;
+		display: block;
+		line-height: 1.25em;
+		padding: 0.5em 0.8em;
+		overflow-x: auto;
+		background-color: transparent;
+		color: #211908 !important;
+	}
 /* Work Item */
 
 	.work-item {
