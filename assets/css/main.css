@@ -28,7 +28,7 @@
 
 	ol, ul {
 		list-style: none;
-		font-size: 0.9em;
+		font-size: 1.0em;
 	}
 
 	blockquote, q {
@@ -2124,19 +2124,16 @@
 
 		ul li {
 			padding-left: 0.5em;
-			font-size: 1.1em;
 		}
 
 		ul.alt {
 			list-style: none;
 			padding-left: 0;
-			font-size: 0.9em;
 		}
 
 			ul.alt li {
 				border-top: solid 2px #efefef;
 				padding: 0.2em 0;
-				font-size: 0.9em;
 			}
 
 				ul.alt li:first-child {
@@ -2568,7 +2565,7 @@
 		}
 
 		.work-item p {
-			font-size: 0.9ulem;
+			font-size: 0.9em;
 			line-height: 1.5em;
 			margin: 0;
 		}
