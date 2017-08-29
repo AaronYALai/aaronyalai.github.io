@@ -1208,7 +1208,7 @@ img {
 #footer {
     background: #e8eef4;
     color: #7c8081;
-    padding: 1.2em 1em 2.4em 1em;
+    padding: 2em 1em 4em 1em;
     text-align: center;
 }
 
@@ -1222,8 +1222,8 @@ img {
 
 .credits {
     text-align: center;
-    font-size: 0.725em;
-    line-height: 1em;
+    font-size: 0.7em;
+    line-height: 0.9em;
     overflow: auto;
     opacity: 0.5;
     color: inherit;
@@ -1273,14 +1273,14 @@ img {
         border: 0;
         border-radius: 100%;
         display: inline-block;
-        font-size: 1.15em;
-        height: 2em;
-        left: 0;
-        line-height: 2em;
+        font-size: 1.4em;
+        height: 2.25em;
+        left: -0.5em;
+        line-height: 2.25em;
         text-align: center;
         text-decoration: none;
         top: 0;
-        width: 2em;
+        width: 2.25em;
     }
 
         .icon.circle:hover {
@@ -1356,7 +1356,7 @@ ul.icons {
     ul.icons li {
         display: inline-block;
         line-height: 1em;
-        padding-left: 0.5em;
+        padding-left: 1.5em;
     }
 
         ul.icons li:first-child {
