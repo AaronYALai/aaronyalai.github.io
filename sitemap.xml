@@ -4,91 +4,91 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://aaronyalai.github.io/</loc>
-<lastmod>2017-08-28T22:15:54-00:00</lastmod>
+<loc>http://aaronyalai.github.io/</loc>
+<lastmod>2017-08-29T15:55:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/archives.html</loc>
-<lastmod>2017-08-28T22:15:54-00:00</lastmod>
+<loc>http://aaronyalai.github.io/archives.html</loc>
+<lastmod>2017-08-29T15:55:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/tags.html</loc>
-<lastmod>2017-08-28T22:15:54-00:00</lastmod>
+<loc>http://aaronyalai.github.io/tags.html</loc>
+<lastmod>2017-08-29T15:55:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/pages/about/</loc>
-<lastmod>2015-04-03T13:22:00-07:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://aaronyalai.github.io/2017/12/yi-an-lai4.html</loc>
+<loc>http://aaronyalai.github.io/pages/about/</loc>
 <lastmod>2017-12-03T10:20:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/2016/12/yi-an-lai3.html</loc>
+<loc>http://aaronyalai.github.io/2017/12/yi-an-lai4.html</loc>
+<lastmod>2017-12-03T10:20:00-08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://aaronyalai.github.io/2016/12/yi-an-lai3.html</loc>
 <lastmod>2016-12-03T10:20:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/2015/12/yi-an-lai2.html</loc>
+<loc>http://aaronyalai.github.io/2015/12/yi-an-lai2.html</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/2010/12/yi-an-lai.html</loc>
+<loc>http://aaronyalai.github.io/2010/12/yi-an-lai.html</loc>
 <lastmod>2017-12-03T10:20:00-08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/category/review</loc>
+<loc>http://aaronyalai.github.io/category/review</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/tag/yeah</loc>
+<loc>http://aaronyalai.github.io/tag/yeah</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/tag/hello</loc>
+<loc>http://aaronyalai.github.io/tag/hello</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/tag/first</loc>
+<loc>http://aaronyalai.github.io/tag/first</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://aaronyalai.github.io/author/yi-an-lai</loc>
+<loc>http://aaronyalai.github.io/author/yi-an-lai</loc>
 <lastmod>2018-12-03T10:20:00-08:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
